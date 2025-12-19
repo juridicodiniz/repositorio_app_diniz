@@ -1,5 +1,7 @@
 app-InfoJurCLIENTES
-https://github.com/juridicodiniz/repositorio_app_diniz/raw/main/app-InfoJurCLIENTES/app-InfoJurCLIENTES.apk
+https://github.com/juridicodiniz/repositorio_app_diniz/raw/main/app-InfoJurCLIENTES/release/app-InfoJurCLIENTES_v-1.0.apk
+
+
 https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-InfoJurCLIENTES/version.json
 
 app-cti-ifes:
