@@ -1,5 +1,5 @@
 {
-  "version": "1.9",
-  "url": "https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-cti-ifes/app-cti-ifes_v-1.9.apk",
+  "version": "1.8",
+  "url": "https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-cti-ifes/release/app-cti-ifes_v-1.8.apk",
   "notas_da_versao": "Melhorias na performance da WebView e correção no seletor de arquivos."
 }
