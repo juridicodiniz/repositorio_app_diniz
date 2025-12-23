@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 183,
-      "versionName": "1.83",
-      "outputFile": "app-cti-ifes_v-1.83.apk"
+      "versionCode": 184,
+      "versionName": "1.84",
+      "outputFile": "app-cti-ifes_v-1.84.apk"
     }
   ],
   "elementType": "File",
@@ -22,14 +22,14 @@
       "minApi": 28,
       "maxApi": 30,
       "baselineProfiles": [
-        "baselineProfiles/1/app-cti-ifes_v-1.83.dm"
+        "baselineProfiles/1/app-cti-ifes_v-1.84.dm"
       ]
     },
     {
       "minApi": 31,
       "maxApi": 2147483647,
       "baselineProfiles": [
-        "baselineProfiles/0/app-cti-ifes_v-1.83.dm"
+        "baselineProfiles/0/app-cti-ifes_v-1.84.dm"
       ]
     }
   ],
