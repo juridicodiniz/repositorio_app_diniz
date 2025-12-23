@@ -1,5 +1,5 @@
 {
-  "version": "1.54",
-  "url": "https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-InfoJurCLIENTES/release/app-InfoJurCLIENTES_v-1.54.apk",
-  "notas_da_versao": "Incluiu mensagem da atualização do app com notas da nova versão."
+  "version": "1.55",
+  "url": "https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-InfoJurCLIENTES/release/app-InfoJurCLIENTES_v-1.55.apk",
+  "notas_da_versao": "Correção da webview que estava sobrescrevendo área da barra de status (onde fica a hora, bateria, etc.)."
 }

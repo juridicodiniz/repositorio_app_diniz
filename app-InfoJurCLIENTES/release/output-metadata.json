@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 154,
-      "versionName": "1.54",
-      "outputFile": "app-InfoJurCLIENTES_v-1.54.apk"
+      "versionCode": 155,
+      "versionName": "1.55",
+      "outputFile": "app-InfoJurCLIENTES_v-1.55.apk"
     }
   ],
   "elementType": "File",
@@ -22,14 +22,14 @@
       "minApi": 28,
       "maxApi": 30,
       "baselineProfiles": [
-        "baselineProfiles/1/app-InfoJurCLIENTES_v-1.54.dm"
+        "baselineProfiles/1/app-InfoJurCLIENTES_v-1.55.dm"
       ]
     },
     {
       "minApi": 31,
       "maxApi": 2147483647,
       "baselineProfiles": [
-        "baselineProfiles/0/app-InfoJurCLIENTES_v-1.54.dm"
+        "baselineProfiles/0/app-InfoJurCLIENTES_v-1.55.dm"
       ]
     }
   ],
