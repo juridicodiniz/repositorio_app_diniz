@@ -1,5 +1,5 @@
 {
-  "version": "1.85",
-  "url": "https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-cti-ifes/release/app-cti-ifes_v-1.85.apk",
-  "notas_da_versao": "Configurado para o aplicativo ficar logado, se o usuário não sair do aplicativo."
+  "version": "1.86",
+  "url": "https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-cti-ifes/release/app-cti-ifes_v-1.86.apk",
+  "notas_da_versao": "Incluiu a opção de uso da camera para tirar fotos e anexa-las diretio no chamado."
 }

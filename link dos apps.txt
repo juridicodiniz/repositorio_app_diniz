@@ -1,8 +1,15 @@
+O APP acessar o json onde tem informações: version, url (downlaod da nova vserão), notas_da_versao.
+Esse json é montado quando faz a criação do apk no Android Studio. Que salva o APK no local correto, se configurado.
+
+
+url do json: https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-InfoJurCLIENTES/version.json
+
+
 app-InfoJurCLIENTES
 https://github.com/juridicodiniz/repositorio_app_diniz/raw/main/app-InfoJurCLIENTES/release/app-InfoJurCLIENTES_v-1.0.apk
 
 
-https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-InfoJurCLIENTES/version.json
+
 
 app-cti-ifes:
 https://github.com/juridicodiniz/repositorio_app_diniz/raw/main/app-cti-ifes/app-cti-ifes.apk
