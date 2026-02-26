@@ -1,0 +1,10 @@
+{
+  "version": "1.90",
+  "url": "https://raw.githubusercontent.com/juridicodiniz/repositorio_app_diniz/main/app-cti-ifes/release/app-cti-ifes_v-1.90.apk",
+  "notas_da_versao": "Alterações nas configurações de cookies"
+
+Comentado o codigo
+        //webView.clearCache(true)
+      //  webView.clearHistory()
+      //  webView.clearFormData()
+}
